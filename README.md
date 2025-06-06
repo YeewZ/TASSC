@@ -1,3 +1,5 @@
+# Target-adaptive Structure-Semantic Consistency for Unsupervised Graph Domain Adaptation
+# Requirements
 This code requires the following:
 * torch==1.11.0
 * torch-scatter==2.0.9
