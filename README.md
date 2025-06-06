@@ -1,6 +1,6 @@
 # Target-adaptive Structure-Semantic Consistency for Unsupervised Graph Domain Adaptation
 This is the source code of ECML-PKDD 2025 paper "Target-adaptive Structure-Semantic Consistency for Unsupervised Graph Domain Adaptation".
-
+![image](main/pipline.png) 
 # Requirements
 This code requires the following:
 * torch==1.11.0
