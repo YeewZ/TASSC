@@ -8,7 +8,7 @@ This code requires the following:
 * scikit-learn==0.24.2
 
 Datasets used in the paper are all publicly available datasets. You can find
-[Twitch](https://github.com/benedekrozemberczki/datasets#twitch-social-networks)
-[Citation](https://github.com/yuntaodu/ASN/tree/main/data)
+[Twitch](https://github.com/benedekrozemberczki/datasets#twitch-social-networks),
+[Citation](https://github.com/yuntaodu/ASN/tree/main/data),
 [Airport](https://drive.google.com/drive/folders/1zlluWoeukD33ZxwaTRQi3jCdD0qC-I2j)
 via the links above.
